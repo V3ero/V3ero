@@ -1,4 +1,10 @@
 ## Bem-vindo(a) ao meu perfil 😁
+   Me chamo Verônica, sou estudante de Ciências da Computação.
+   Cresci com uma Administradora de empresas que sempre me ensinava quando tinha a oportunidade. Minha avó, como Instrutora do Sebrae, sempre me levava como auxiliar e sempre me inseria nos cursos que ela dava. Esse convívio, me agregou muito e desde nova busquei aprender o que podia e gerou uma grande paixão por administração.
+   Com o tempo, tive algumas vivências que me mostraram o leque de oportunidades na área profissional... O problema era que eu sempre gostava de muita coisa. Mais tarde eu descobriria o termo "Multipotêncial".
+   Fiz um curso de Ilustração Tradicional, uma de minhas paixões, e sempre desenho. Busco aprender mais dentro da área visual, o que me levou a aprender um pouco sobre marketing. Já tive contato com conteúdos de UX/UI, Landing Pages, Redes Sociais e Design Gráfico. Só que meu contato mais frequente é Programação.
+   Atualmente, busco por oportunidades na área, pois desejo integrar meus conhecimentos de artes com a tecnologia e meu foco é criar uma carreira no setor de desenvolvimento de Web. Para me aprofundar na área, não deixo de praticar programação, participar de eventos e sempre busco cursos que possam agregar conhecimento para minha carreira no futuro. Pois para mim: 
+   "Todo conhecimento é uma forma de agregar valor às atividades e uma forma de ampliar a visão de um profissional".
 
  <div>
    <a href="https://github.com/V3ero
